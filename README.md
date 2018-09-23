@@ -24,4 +24,4 @@ And their features:
 - **Garage**
 - **Swimming pool**
 
-The final csv file has the following columns: id; location name; type; title; features; pool (0/1); sea view (0/1); garage (0/1), where pool, sea view, garage are binary - 1 if the property is characterised by the feature and 0 if not:
+The final csv file has the following columns: **id; location name; type; title; features; pool (0/1); sea view (0/1); garage (0/1)**, where pool, sea view, garage are binary - 1 if the property is characterised by the feature and 0 if not:
