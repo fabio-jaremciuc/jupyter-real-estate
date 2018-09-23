@@ -1,5 +1,5 @@
 # jupyter-real-estate
-The project aims to transform the source dataset in order to facilitate the decision of investors regarding the investment option
+The project aims to transform the source dataset in order to facilitate the decision of real estate investors regarding the investment option
 
 ### The dataset
 
